@@ -1,4 +1,4 @@
-GCD_CourseProject
+Instructions to run the script and produce the expected result
 =================
 
 1.  Create a file named CourseProject in your hard disk.
